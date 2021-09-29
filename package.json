@@ -1,0 +1,11 @@
+{
+	"name": "kilims-pnpm-workspace",
+	"author": {
+		"name": "Kilims J L Ye",
+		"email": "kilims@aliyun.com"
+	},
+	"dependencies": {
+		"react": "16.13.1",
+		"react-dom": "16.13.1"
+	}
+}
